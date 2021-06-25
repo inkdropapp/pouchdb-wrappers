@@ -1,6 +1,6 @@
 {
   "name": "@craftzdog/pouchdb-wrappers",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Makes wrapping PouchDB functions a lot easier.",
   "main": "index.js",
   "scripts": {
