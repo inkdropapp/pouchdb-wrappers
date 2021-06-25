@@ -1,0 +1,30 @@
+{
+  "name": "@craftzdog/pouchdb-wrappers",
+  "version": "4.2.0",
+  "description": "Makes wrapping PouchDB functions a lot easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pouch",
+    "pouchdb",
+    "couch",
+    "couchdb",
+    "wrap",
+    "wrapper",
+    "wrappers"
+  ],
+  "dependencies": {
+    "promise-nodify": "^1.0.2"
+  },
+  "author": {
+    "name": "Marten de Vries"
+  },
+  "homepage": "https://github.com/inkdropapp/pouchdb-wrappers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkdropapp/pouchdb-wrappers.git"
+  },
+  "license": "Apache-2.0"
+}
